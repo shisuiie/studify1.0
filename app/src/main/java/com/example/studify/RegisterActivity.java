@@ -66,7 +66,7 @@ public class RegisterActivity extends AppCompatActivity {
             inputPassword.setError("Enter Proper Password");
         }else if (!password.equals(confirmPassword))
         {
-            inputComfirmpassword.setError("Password does not matched");
+            inputComfirmpassword.setError("Password does not match");
         }else
         {
             progressDialog.setMessage("Please wait while Registration...");

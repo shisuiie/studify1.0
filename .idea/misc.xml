@@ -7,6 +7,14 @@
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.43020833333333336" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_studyset.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/layout/fragment_account.xml" value="0.5770833333333333" />
+        <entry key="app/src/main/res/layout/fragment_calendar.xml" value="0.5770833333333333" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/layout/fragment_pomodoro.xml" value="0.582010582010582" />
+        <entry key="app/src/main/res/layout/fragment_studyset.xml" value="0.582010582010582" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/menu/bottom_navmenu.xml" value="0.5911458333333334" />
       </map>
     </option>
   </component>
