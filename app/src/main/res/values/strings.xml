@@ -35,4 +35,7 @@
     <string name="welcome">Welcome</string>
     <string name="studyset_fragment">studyset fragment</string>
     <string name="your_study_sets">Your Study sets</string>
+    <string name="add">add</string>
+    <string name="plus">plus</string>
+    <string name="close">Close</string>
 </resources>

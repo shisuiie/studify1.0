@@ -3,18 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_add_black_24dp.xml" value="0.2965" />
+        <entry key="app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.3305" />
         <entry key="app/src/main/res/drawable/input_bg.xml" value="0.491" />
+        <entry key="app/src/main/res/layout/activity_alarm.xml" value="0.16717325227963525" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.43020833333333336" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_register.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_studyset.xml" value="0.5911458333333334" />
         <entry key="app/src/main/res/layout/fragment_account.xml" value="0.5770833333333333" />
-        <entry key="app/src/main/res/layout/fragment_calendar.xml" value="0.5770833333333333" />
+        <entry key="app/src/main/res/layout/fragment_calendar.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_calendar_view.xml" value="0.2712962962962963" />
+        <entry key="app/src/main/res/layout/fragment_create_task.xml" value="0.5" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.5911458333333334" />
         <entry key="app/src/main/res/layout/fragment_pomodoro.xml" value="0.582010582010582" />
         <entry key="app/src/main/res/layout/fragment_studyset.xml" value="0.582010582010582" />
+        <entry key="app/src/main/res/layout/item_task.xml" value="0.16717325227963525" />
+        <entry key="app/src/main/res/layout/navigation_activity.xml" value="0.43020833333333336" />
         <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.5911458333333334" />
         <entry key="app/src/main/res/menu/bottom_navmenu.xml" value="0.5911458333333334" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.2712962962962963" />
       </map>
     </option>
   </component>
